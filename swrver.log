@@ -1,0 +1,8 @@
+Warning: You're using Rubygems 1.8.23 with Spring. Upgrade to at least Rubygems 2.1.0 and run `gem pristine --all` for better startup performance.
+A server is already running. Check /home/kamil/myapp/tmp/pids/server.pid.
+=> Booting WEBrick
+=> Rails 4.1.1 application starting in development on http://0.0.0.0:3000
+=> Run `rails server -h` for more startup options
+=> Notice: server is listening on all interfaces (0.0.0.0). Consider using 127.0.0.1 (--binding option)
+=> Ctrl-C to shutdown server
+Exiting
